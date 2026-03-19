@@ -22,7 +22,8 @@ Built a Python workflow that pulls Amazon sales and traffic data from SP-API, tr
 - reporting pipeline
 - dashboard delivery
 
-[Project link](ADD_LINK)
+[Project link](https://github.com/dillonleeper/amazon-sp-api-sales-pipeline
+)
 
 ---
 
@@ -40,8 +41,8 @@ Python scripts for backfilling weekly sales data, standardizing fields, and prep
 - automation
 - reporting consistency
 
-[Project link]
-https://github.com/dillonleeper/amazon-sp-api-sales-pipeline
+[Project link](https://github.com/dillonleeper/amazon-sp-api-sales-pipeline
+)
 
 ---
 
