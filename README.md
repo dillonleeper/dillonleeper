@@ -1,8 +1,8 @@
 # Data & Automation Projects
 
-This repo is a collection of data projects focused on pipelines, reporting, automation, and practical analytics work.
+This repo contains a collection of data and automation projects focused on reporting, pipelines, and practical analytics work.
 
-Most of these projects come from real business problems — pulling data from APIs, cleaning it, storing it, and building dashboards on top of it.
+Most of these projects come from real business use cases — pulling data from APIs, cleaning and transforming it, and building reporting workflows and dashboards on top of it.
 
 ## Projects
 
@@ -26,7 +26,7 @@ Built a Python workflow that pulls Amazon sales and traffic data from SP-API, tr
 
 ---
 
-### 2. Sales Fact Backfill and Reporting Scripts
+### 2. Reporting Automation & Backfill Scripts
 Python scripts for backfilling weekly sales data, standardizing fields, and preparing data for reporting.
 
 **Tools used**
@@ -40,11 +40,12 @@ Python scripts for backfilling weekly sales data, standardizing fields, and prep
 - automation
 - reporting consistency
 
-[Project link](ADD_LINK)
+[Project link]
+https://github.com/dillonleeper/amazon-sp-api-sales-pipeline
 
 ---
 
-### 3. SQL / analytics project
+### 3. SQL / Analytics Project (in progress)
 In progress.
 
 ## Notes
