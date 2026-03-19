@@ -1,4 +1,4 @@
-# Data Engineering Portfolio
+# Data & Automation Projects
 
 This repo is a collection of data projects focused on pipelines, reporting, automation, and practical analytics work.
 
