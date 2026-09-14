@@ -8,15 +8,6 @@ Currently based in New York and pursuing an M.S. in Data Analytics at CUNY SPS.
 
 ---
 
-## Selected Work
-
-### Manhattan Building Age Atlas
-Interactive data product exploring Manhattan's building stock by construction year.
-
-**Focus:** geospatial data · data visualization · interactive product development
-
-[View repository](https://github.com/dillonleeper/manhattan-building-age-atlas)
-
 ### SellerIQ
 Ecommerce analytics platform for Amazon and Walmart marketplace sellers, with automated ingestion, warehouse modeling, and custom dashboards.
 
@@ -57,13 +48,3 @@ Domain        Ecommerce, Amazon SP-API, Walmart Marketplace
 ```
 
 ---
-
-## Currently Building
-
-- Manhattan Building Age Atlas
-- SellerIQ ecommerce analytics platform
-- Graduate data analytics coursework at CUNY SPS
-
----
-
-*Open to Analytics Engineer and Data Engineer roles in New York or remote.*
