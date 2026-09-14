@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Hello, I'm Dillon Leeper</title>
+  <desc id="desc">A minimal banner about collecting, shaping, and understanding data.</desc>
+  <rect x="1" y="1" width="1198" height="278" rx="28" fill="#161617" stroke="#343436" stroke-width="2"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="58" y="82" fill="#df8a6d" font-size="16" font-weight="600" letter-spacing="3">HELLO, I'M</text>
+    <text x="56" y="143" fill="#f5f5f7" font-size="52" font-weight="650">Dillon Leeper</text>
+    <text x="58" y="188" fill="#a1a1a6" font-size="20">I build things with data.</text>
+  </g>
+  <path d="M733 132C803 132 823 102 892 102S988 153 1124 127" fill="none" stroke="#48484a" stroke-width="2.5" stroke-linecap="round"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" text-anchor="middle" fill="#a1a1a6">
+    <circle cx="754" cy="131" r="7" fill="#d6ad62"/><text x="754" y="165">collect</text>
+    <circle cx="900" cy="104" r="7" fill="#91aa97"/><text x="900" y="165">shape</text>
+    <circle cx="1095" cy="132" r="7" fill="#df8a6d"/><text x="1095" y="165">understand</text>
+  </g>
+</svg>
+
