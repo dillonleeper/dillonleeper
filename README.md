@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark-minimal.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner-light.svg">
   <img alt="Dillon Leeper — ecommerce problems, data projects, and whatever seems fun to build next" src="assets/profile-banner-light.svg" width="100%">
 </picture>
@@ -18,8 +18,8 @@ Most of what you'll find here comes from either a real problem I wanted to solve
       <a href="https://github.com/dillonleeper/SellerIQ">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/project-selleriq-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/project-selleriq.svg">
-          <img src="assets/project-selleriq.svg" alt="SellerIQ data pipeline illustration" width="100%">
+          <source media="(prefers-color-scheme: light)" srcset="assets/project-selleriq-light.svg">
+          <img src="assets/project-selleriq-light.svg" alt="SellerIQ data pipeline illustration" width="100%">
         </picture>
       </a>
       <p>An ecommerce analytics project I'm building around problems I've dealt with at work: getting Amazon marketplace data out of different systems, organizing it, and being able to answer questions with it.</p>
@@ -30,8 +30,8 @@ Most of what you'll find here comes from either a real problem I wanted to solve
       <a href="https://github.com/dillonleeper/amazon-sp-api-sales-pipeline">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/project-amazon-pipeline-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/project-amazon-pipeline.svg">
-          <img src="assets/project-amazon-pipeline.svg" alt="DIY Amazon pipeline illustration" width="100%">
+          <source media="(prefers-color-scheme: light)" srcset="assets/project-amazon-pipeline-light.svg">
+          <img src="assets/project-amazon-pipeline-light.svg" alt="DIY Amazon pipeline illustration" width="100%">
         </picture>
       </a>
       <p>One of my first Python projects: a bootstrapped reporting setup for small Amazon sellers who want their weekly sales and traffic data in Google Sheets without another analytics subscription.</p>
@@ -44,8 +44,8 @@ Most of what you'll find here comes from either a real problem I wanted to solve
       <a href="https://github.com/dillonleeper/DATA-607">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/project-data607-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/project-data607.svg">
-          <img src="assets/project-data607.svg" alt="DATA 607 coursework illustration" width="100%">
+          <source media="(prefers-color-scheme: light)" srcset="assets/project-data607-light.svg">
+          <img src="assets/project-data607-light.svg" alt="DATA 607 coursework illustration" width="100%">
         </picture>
       </a>
       <p>My coursework for CUNY's Data Acquisition and Management class. This is where I'm working through SQL, PostgreSQL, R, data collection, and reproducible analysis.</p>
@@ -56,8 +56,8 @@ Most of what you'll find here comes from either a real problem I wanted to solve
       <a href="https://github.com/dillonleeper/wordstake">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/project-wordstake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/project-wordstake.svg">
-          <img src="assets/project-wordstake.svg" alt="Wordstake word game illustration" width="100%">
+          <source media="(prefers-color-scheme: light)" srcset="assets/project-wordstake-light.svg">
+          <img src="assets/project-wordstake-light.svg" alt="Wordstake word game illustration" width="100%">
         </picture>
       </a>
       <p>A daily word game I built because I wanted to make something that wasn't about ecommerce or dashboards. You get eight tries and match counts instead of letter positions.</p>
