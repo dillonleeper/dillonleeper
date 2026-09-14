@@ -1,70 +1,69 @@
 # Dillon Leeper
 
-**Analytics Engineer** — building data pipelines, warehouse systems, and analytics tools for ecommerce operations.
+**Analytics Engineer** — building data pipelines, analytics systems, and interactive data products.
 
-I work at the intersection of data engineering and business analytics. I design and ship end-to-end data systems — API ingestion, raw file archival, dimensional warehouse modeling, and dashboard delivery — and I have 6+ years of ecommerce context that makes the data decisions meaningful.
+I work at the intersection of data engineering, analytics, and ecommerce. My projects span API ingestion, SQL and dimensional modeling, data visualization, and full-stack analytics tools.
 
-Self-taught through production systems. Currently based in New York.
-
----
-
-## Featured Project
-
-### SellerIQ — Ecommerce Analytics Platform
-
-SellerIQ is a full-stack ecommerce analytics platform for Amazon and Walmart marketplace sellers. It ingests raw marketplace data, models it into a clean dimensional warehouse, and serves it through a custom dashboard built in Next.js.
-
-**Backend (pipeline):** [github.com/dillonleeper/SellerIQ](https://github.com/dillonleeper/SellerIQ)
-**Frontend (dashboard):** [github.com/dillonleeper/selleriq-app](https://github.com/dillonleeper/selleriq-app)
-
-**What it does:**
-- Ingests Amazon Sales & Traffic, Catalog, Listings, and FBA Inventory reports via SP-API
-- Archives raw files to S3 before any transformation (immutable raw layer)
-- Parses and loads data into a layered Postgres warehouse — staging → intermediate → fact/dim
-- Resolves product identity across SKU, ASIN, and parent ASIN into a canonical `dim_product`
-- Runs idempotent batch loads with full job logging, checksums, and error tracking
-- Backfilled 62 weeks of historical sales data across US and CA marketplaces
-- Dashboard with Sales Overview, Product Performance, Weekly Cadence heatmap, and more
-           
-**Backend tech:** Python · PostgreSQL · Amazon S3 · Amazon SP-API · psycopg2 · boto3
-           
-**Frontend tech:** Next.js · TypeScript · React · Recharts · Supabase · Tailwind CSS
-           
----
-
-## Other Projects
-
-### Amazon SP-API Sales Pipeline & Dashboard
-
-[github.com/dillonleeper/amazon-sp-api-sales-pipeline](https://github.com/dillonleeper/amazon-sp-api-sales-pipeline)
-
-The predecessor to SellerIQ — a Python pipeline pulling Amazon sales and traffic data from SP-API, loading into Google Sheets, and visualizing in Looker Studio. Built as an operational reporting tool before transitioning to the full warehouse architecture.
-
-**Tech:** Python · Amazon SP-API · Google Sheets API · Looker Studio
+Currently based in New York and pursuing an M.S. in Data Analytics at CUNY SPS.
 
 ---
 
-## Tech Stack
+## Selected Work
+
+### Manhattan Building Age Atlas
+Interactive data product exploring Manhattan's building stock by construction year.
+
+**Focus:** geospatial data · data visualization · interactive product development
+
+[View repository](https://github.com/dillonleeper/manhattan-building-age-atlas)
+
+### SellerIQ
+Ecommerce analytics platform for Amazon and Walmart marketplace sellers, with automated ingestion, warehouse modeling, and custom dashboards.
+
+**Focus:** Python · PostgreSQL · Amazon SP-API · S3 · dimensional modeling · Next.js
+
+[View repository](https://github.com/dillonleeper/SellerIQ)
+
+### Amazon SP-API Sales Pipeline
+Python pipeline for pulling Amazon sales and traffic data, transforming it, and loading it into Google Sheets for reporting and dashboards.
+
+**Focus:** API ingestion · Python · pandas · Google Sheets API · reporting automation
+
+[View repository](https://github.com/dillonleeper/amazon-sp-api-sales-pipeline)
+
+### DATA 607 — Data Acquisition and Management
+Graduate coursework covering SQL, relational databases, R, data acquisition, transformation, and reproducible analysis.
+
+**Focus:** SQL · PostgreSQL · R · Quarto · data management
+
+[View repository](https://github.com/dillonleeper/DATA-607)
+
+### Wordstake
+Software project demonstrating product development beyond analytics-focused work.
+
+[View repository](https://github.com/dillonleeper/wordstake)
+
+---
+
+## Technical Focus
 
 ```
-Languages     Python, SQL, TypeScript
-Pipeline      Batch ETL, API ingestion, idempotent loading, job logging
-Warehouse     Dimensional modeling, staging/intermediate/fact/dim layers
-APIs          Amazon SP-API, Walmart Marketplace API
-Infra         Amazon S3, PostgreSQL, Supabase, psycopg2, boto3
+Languages     Python, SQL, R, TypeScript
+Data          PostgreSQL, dimensional modeling, ETL, API ingestion
+Analytics     KPI design, reporting automation, data visualization
+Cloud / Infra Amazon S3, Supabase
 Frontend      Next.js, React, Recharts, Tailwind CSS
-Analytics     KPI design, contribution margin, marketplace performance
+Domain        Ecommerce, Amazon SP-API, Walmart Marketplace
 ```
 
 ---
 
-## Currently Working On
+## Currently Building
 
-- Phase 3 complete — FBA inventory snapshots live in production
-- Building Inventory and Marketplace Compare dashboard pages
-- Adding order item detail and finance/fee ingestion (Phases 4 & 5)
-- Building toward an AI query layer over curated warehouse data
-                 
+- Manhattan Building Age Atlas
+- SellerIQ ecommerce analytics platform
+- Graduate data analytics coursework at CUNY SPS
+
 ---
 
 *Open to Analytics Engineer and Data Engineer roles in New York or remote.*
