@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Dillon Leeper</title>
+  <desc id="desc">A hand-drawn workbench connecting ecommerce problems, data projects, school, and playful experiments.</desc>
+  <rect width="1200" height="340" rx="28" fill="#11191d"/>
+  <path d="M40 267C216 249 360 292 532 264s337-6 628-17" fill="none" stroke="#304047" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#ede4d5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M720 109h89v72h-89z"/>
+    <path d="M735 127h58M735 144h58M735 161h58M754 111v68M774 111v68" stroke-width="2"/>
+    <path d="M850 119c0-13 27-23 60-23s60 10 60 23v58c0 13-27 23-60 23s-60-10-60-23z"/>
+    <ellipse cx="910" cy="119" rx="60" ry="23"/>
+    <path d="M850 148c0 13 27 23 60 23s60-10 60-23"/>
+    <path d="M1017 181v-62l21-18 17 15 23-30 22 35 22-10 18 70z"/>
+    <path d="M1031 181v-29h18v29M1064 181v-43h20v43M1098 181v-26h17v26" stroke-width="3"/>
+    <path d="M656 145h42m-12-11 12 11-12 11M817 145h20m-9-11 12 11-12 11M980 145h22m-9-11 12 11-12 11"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="58" y="92" fill="#df8b6c" font-size="18" font-weight="700" letter-spacing="3">HELLO, I'M</text>
+    <text x="56" y="151" fill="#ede4d5" font-size="54" font-weight="700">Dillon Leeper</text>
+    <text x="58" y="195" fill="#a9bbc0" font-size="22">ecommerce problems -> data projects -></text>
+    <text x="58" y="229" fill="#a9bbc0" font-size="22">whatever seems fun to build next</text>
+    <text x="730" y="230" fill="#9eb29d" font-size="16">sheets</text>
+    <text x="874" y="230" fill="#df8b6c" font-size="16">warehouse</text>
+    <text x="1042" y="230" fill="#a9bbc0" font-size="16">ideas</text>
+  </g>
+  <circle cx="646" cy="145" r="7" fill="#d8b366"/>
+  <circle cx="814" cy="145" r="7" fill="#9eb29d"/>
+  <circle cx="978" cy="145" r="7" fill="#df8b6c"/>
+</svg>
