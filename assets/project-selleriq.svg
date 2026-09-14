@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="270" viewBox="0 0 640 270" role="img" aria-labelledby="t d">
+  <title id="t">SellerIQ</title><desc id="d">A pipeline from marketplace reports through S3 and Postgres to a dashboard.</desc>
+  <rect width="640" height="270" rx="24" fill="#172126"/><rect x="1.5" y="1.5" width="637" height="267" rx="22.5" fill="none" stroke="#34464c" stroke-width="3"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><text x="34" y="49" fill="#df8b6c" font-size="16" font-weight="700" letter-spacing="2">MARKETPLACE DATA</text><text x="34" y="86" fill="#f0e7d8" font-size="30" font-weight="700">SellerIQ</text></g>
+  <g fill="none" stroke="#e9dfcf" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M39 136h82v67H39zM54 151h52M54 167h52M54 183h32"/>
+    <path d="M168 151c0-10 20-18 45-18s45 8 45 18v45c0 10-20 18-45 18s-45-8-45-18z"/><ellipse cx="213" cy="151" rx="45" ry="18"/><path d="M168 174c0 10 20 18 45 18s45-8 45-18"/>
+    <path d="M304 151c0-10 20-18 45-18s45 8 45 18v45c0 10-20 18-45 18s-45-8-45-18z"/><ellipse cx="349" cy="151" rx="45" ry="18"/><path d="M304 174c0 10 20 18 45 18s45-8 45-18"/>
+    <path d="M440 133h157v81H440zM459 194v-24h22v24M493 194v-43h22v43M527 194v-32h22v32M561 194v-52h22v52"/>
+    <path d="M130 173h25m-9-9 9 9-9 9M267 173h24m-9-9 9 9-9 9M403 173h24m-9-9 9 9-9 9"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" text-anchor="middle"><text x="80" y="235" fill="#a9bbc0">API</text><text x="213" y="235" fill="#d8b366">S3</text><text x="349" y="235" fill="#9eb29d">POSTGRES</text><text x="519" y="235" fill="#df8b6c">DASHBOARD</text></g>
+</svg>
