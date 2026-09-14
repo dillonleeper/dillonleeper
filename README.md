@@ -6,7 +6,7 @@
 
 I work in ecommerce and spend a lot of my free time learning how to build better things with data.
 
-Right now I'm doing an M.S. in Data Analytics at CUNY SPS and working on projects that give me an excuse to use Python, SQL, R, APIs, databases, and whatever else I need to figure something out. I'm especially interested in data engineering and analytics engineering, but I'm still learning and building toward that direction.
+Right now I'm working on projects that give me an excuse to use Python, SQL, R, APIs, databases, and whatever else I need to figure something out. I'm especially interested in data engineering and analytics engineering, but I'm still learning and building toward that direction.
 
 Most of what you'll find here comes from either a real problem I wanted to solve, school, or something I thought would be fun to make.
 
